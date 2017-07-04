@@ -12,6 +12,8 @@ public abstract class Cassadra_Keyspace  {
 		
 	}
 	
-	public abstract String  createquery2(); 
-	
+	public abstract String  createtable(); 
+	public abstract String createdata1() ;
+	public abstract String createdata2(); 
+	public abstract String createdata3();
 }
