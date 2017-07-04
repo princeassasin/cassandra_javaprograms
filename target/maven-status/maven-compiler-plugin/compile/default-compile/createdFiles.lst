@@ -1,1 +1,4 @@
+com/cassandrakeyspace/CassandraMain.class
+com/cassandrakeyspace/CassandraTable.class
 com/cassandrakeyspace/Cassadra_Keyspace.class
+com/cassandrakeyspace/Cassandra_Insertdata.class
